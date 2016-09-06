@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=2.0">
+  <meta name="description" content="">
+  <meta name="author" content="gressMonkey">
+  <title>{{config.title|escape}}</title>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <h1>{{post.title|escape}}</h1>
+  <p>日期: {{post.date|escape}}</p>
+  <hr>
+  <div class="post-content">{{post.content}}</div>
+</body>
+</html>
