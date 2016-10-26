@@ -3,7 +3,9 @@ title: Intellij Idea快捷键大全
 date: 2016-09-30
 layout: post
 ---
-
+```
+ALT+D 切换全屏快捷键（Toggle full screen mode）
+```
 ```
 【常规】
 Ctrl+Shift + Enter，语句完成
