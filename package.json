@@ -20,6 +20,7 @@
     "open": "0.0.5",
     "rd": "0.0.2",
     "serve-static": "^1.9.3",
-    "swig": "^1.4.2"
+    "swig": "^1.4.2",
+    "redis-connection-pool":"0.0.5"
   }
 }
